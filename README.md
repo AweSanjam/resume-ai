@@ -67,11 +67,5 @@ uvicorn main:app --reload
 ## 🧑‍💻 Author
 
 **AweSanjam**  
-📍 India  
+📍 Canada  
 [GitHub Profile](https://github.com/AweSanjam)
-
----
-
-## 📄 License
-
-MIT — use it, fork it, build something awesome.
